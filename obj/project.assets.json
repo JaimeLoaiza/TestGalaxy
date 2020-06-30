@@ -8514,11 +8514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia Loaiza\\source\\repos\\TestGalaxy\\TestGalaxy.csproj",
+      "projectUniqueName": "C:\\Users\\Familia Loaiza\\source\\repos\\TestGalaxy\\TestGalaxy\\TestGalaxy.csproj",
       "projectName": "TestGalaxy",
-      "projectPath": "C:\\Users\\Familia Loaiza\\source\\repos\\TestGalaxy\\TestGalaxy.csproj",
+      "projectPath": "C:\\Users\\Familia Loaiza\\source\\repos\\TestGalaxy\\TestGalaxy\\TestGalaxy.csproj",
       "packagesPath": "C:\\Users\\Familia Loaiza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia Loaiza\\source\\repos\\TestGalaxy\\obj\\",
+      "outputPath": "C:\\Users\\Familia Loaiza\\source\\repos\\TestGalaxy\\TestGalaxy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
